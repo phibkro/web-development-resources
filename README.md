@@ -1,8 +1,13 @@
 # web-development-resources
 [Roadmaps](https://roadmap.sh/)
+## CSS 
+- [PostCSS](https://postcss.org/)
+### CSS Methodologies
+- [BEM(Block, Element, Modifier)](http://getbem.com/)
+- [CUBE CSS(Composition, Utilities, Block, Exceptions)](https://cube.fyi/)
 ## Javascript
 - [Does it mutate?](https://doesitmutate.xyz/)
-## React libraries
+## React
 ### UI libraries
 - [MUI(Material UI)](https://mui.com/)
 - [Chakra UI](https://chakra-ui.com/)
@@ -10,11 +15,8 @@
 - [Storybook](https://storybook.js.org/)
 ### Animation
 - [Framer motion](https://www.framer.com/motion/)
-## CSS 
-- [PostCSS](https://postcss.org/)
-### CSS Methodologies
-- [BEM(Block, Element, Modifier)](http://getbem.com/)
-- [CUBE CSS(Composition, Utilities, Block, Exceptions)](https://cube.fyi/)
+## Svelte
+- [Made with Svelte](https://madewithsvelte.com/)
 ## Git
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 ## Miscellaneous
