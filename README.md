@@ -11,6 +11,7 @@
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
 ## React
 - [Typescript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)
 ### UI libraries
 - [MUI(Material UI)](https://mui.com/)
 - [Chakra UI](https://chakra-ui.com/)
