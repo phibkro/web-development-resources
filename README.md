@@ -7,7 +7,10 @@
 - [CUBE CSS(Composition, Utilities, Block, Exceptions)](https://cube.fyi/)
 ## Javascript
 - [Does it mutate?](https://doesitmutate.xyz/)
+## Typescript
+- [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
 ## React
+- [Typescript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 ### UI libraries
 - [MUI(Material UI)](https://mui.com/)
 - [Chakra UI](https://chakra-ui.com/)
