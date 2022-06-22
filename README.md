@@ -28,3 +28,4 @@
 - [MD Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [Refactoring Guru](https://refactoring.guru/)
 - [Patterns](https://www.patterns.dev/)
+- [Video Player](https://videojs.com/)
