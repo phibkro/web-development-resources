@@ -29,3 +29,4 @@
 - [Refactoring Guru](https://refactoring.guru/)
 - [Patterns](https://www.patterns.dev/)
 - [Video Player](https://videojs.com/)
+- [Iconify](https://iconify.design/)
