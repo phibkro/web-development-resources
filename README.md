@@ -1,5 +1,36 @@
 # web-development-resources
 [Roadmaps](https://roadmap.sh/)
+
+# Relevant
+## Technologies
+- React
+- Tailwind
+- Vite & Vitest
+- React Router
+- Tanstack Query
+- NextJS
+### Component Libraries
+- [ShadUI](https://ui.shadcn.com/)
+- [RadixUI](https://www.radix-ui.com/)
+- [ReactARIA](https://react-spectrum.adobe.com/react-aria/index.html)
+## Best practice
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [More on conventional commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+- [Commit verbs](https://github.com/knowbl/git-commit-message)
+## Youtubers
+- [Theo - T3.gg](https://www.youtube.com/@t3dotgg)
+  - the best.
+- [Fireship](https://www.youtube.com/@Fireship)
+  - OBJECTIVELY the best
+  - 🔥 tutorials & web dev news
+  - Fantastic introductions to technologies
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+  - Clickbaity standard videos but comprehensive tutorials/courses
+  - Fantastic for a more comprehensive look at technologies
+## Cheatsheets
+- [MD Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+# archive
 ## CSS 
 - [PostCSS](https://postcss.org/)
 ### CSS Methodologies
@@ -22,10 +53,8 @@
 - [Framer motion](https://www.framer.com/motion/)
 ## Svelte
 - [Made with Svelte](https://madewithsvelte.com/)
-## Git
-- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
 ## Miscellaneous
-- [MD Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [Refactoring Guru](https://refactoring.guru/)
 - [Patterns](https://www.patterns.dev/)
 - [Video Player](https://videojs.com/)
