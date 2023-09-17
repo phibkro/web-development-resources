@@ -29,6 +29,8 @@
   - Fantastic for a more comprehensive look at technologies
 ## Cheatsheets
 - [MD Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+## Design inspo
+- [90s but modern](https://joelgc.com/)
 
 # archive
 ## CSS 
