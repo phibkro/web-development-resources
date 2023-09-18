@@ -14,9 +14,10 @@
 - [RadixUI](https://www.radix-ui.com/)
 - [ReactARIA](https://react-spectrum.adobe.com/react-aria/index.html)
 ## Best practice
-- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [More on conventional commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) mainly for API's and packages
+- [More on conventional commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) more catered to websites & webapps
 - [Commit verbs](https://github.com/knowbl/git-commit-message)
+- [Semantic Versioning](https://semver.org/) for API's and packages NOT websites & webapps
 ## Youtubers
 - [Theo - T3.gg](https://www.youtube.com/@t3dotgg)
   - the best.
