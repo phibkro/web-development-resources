@@ -33,6 +33,10 @@
 ## Design inspo
 - [90s but modern](https://joelgc.com/)
 
+## Dump
+
+- https://youmightnotneedjquery.com/
+
 # archive
 ## CSS 
 - [PostCSS](https://postcss.org/)
